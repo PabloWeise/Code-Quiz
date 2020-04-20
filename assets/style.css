@@ -1,0 +1,43 @@
+
+   header{
+       text-align: center;
+       font-size: 50px;
+       font-weight: bold;
+       color: rgb(231, 5, 5);
+       font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+   } 
+    
+   .row{
+       margin: auto;
+       text-align: center;
+       color: rgba(241, 142, 11, 0.959);
+       font-size: 30px;
+    
+       
+   }
+    body{
+        background-image: url(../images/setup.jpg);
+        opacity: initial;
+        background-repeat: no-repeat;
+        position: relative;
+
+
+        
+        
+
+
+        
+    }
+    .btn{
+        color: black;
+        margin: 20px;
+        padding: 14px 40px;
+    }
+
+    #start{
+        text-align: center;
+    }
+    .hide{
+        display: none;
+    }
